@@ -6,3 +6,4 @@ edition = "2024"
 [dependencies]
 macroquad = "0.4"
 minifb = "0.28"
+rand = "0.10.2"
